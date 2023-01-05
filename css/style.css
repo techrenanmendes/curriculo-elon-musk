@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+body {
+  font-family: arial;
+}
+
+h2 a {
+  color: grey;
+}
+
+.name {
+  font-family: "Rubik", sans-serif;
+}
+h2 {
+  color: rgb(14, 0, 141);
+}
+
+li {
+  color: blueviolet;
+}
+.name {
+  text-align: center;
+}
+
+.ola {
+  background-color: rgb(46, 133, 247);
+}
+
+.name {
+  font-size: 45px;
+}
